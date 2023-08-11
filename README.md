@@ -6,3 +6,4 @@ berkas ini, gunakan format beriku:
 
 Berikut pengembang yang diterima:  
 * Muhammad Azhari Desky [pengembang web yang baru belajar](Belum ada portofolio).
+* Azhari Desky [GitHun](https://github.com/azharidesky).
